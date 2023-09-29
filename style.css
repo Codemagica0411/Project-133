@@ -1,0 +1,28 @@
+a {
+background-color:red;
+color:white;
+font-size:24px;
+padding:10px;
+margin:50px;
+height:25px;
+width:50px
+}
+body {
+    background-size:cover;
+    text-align: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
